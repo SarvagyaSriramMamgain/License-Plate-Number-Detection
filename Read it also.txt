@@ -1,0 +1,1 @@
+Need to download Tesseract for Python first)
